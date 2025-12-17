@@ -1,0 +1,5 @@
+/index.html        ← Главная страница с списком песен
+/songs/song1.html  ← Пример песни 1
+/songs/song2.html  ← Пример песни 2
+/css/style.css     ← Стили
+/js/main.js        ← Скрипт для фильтра по языку
