@@ -1,0 +1,6 @@
+git clone https://github.com/egorsotnikov-081dev/song-app.git
+cd song-app
+# https://1drv.ms/w/c/46d4bb7aaef9d7a4/IQB6s1D2Ij-fTo7K7imqmNN1AQYh-ILdCidNiN7SicGKH6I
+git add .
+git commit -m "initial commit"
+git push origin main
